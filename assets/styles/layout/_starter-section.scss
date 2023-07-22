@@ -34,3 +34,43 @@
   margin: 50px 0;
   @include d-grid($pi: center);
 }
+
+.starter-offer_cards {
+  margin: 50px 0 100px;
+  @include d-flex($jc: center, $ai: center, $gp: 30px);
+}
+
+.card-level {
+  gap: 0;
+  width: 320px;
+  height: 194px;
+  border-radius: 10px;
+}
+
+.card_sub-title {
+  color: #59588d;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.card_title {
+  margin: 0;
+  font-size: 80px;
+  font-weight: 700;
+  font-style: normal;
+  background: var(
+    --blue,
+    linear-gradient(
+      135deg,
+      #40ddff 0%,
+      #14bae3 19.24%,
+      #13b1e6 68.64%,
+      #11aadf 81.77%,
+      #0b98c5 100%
+    )
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

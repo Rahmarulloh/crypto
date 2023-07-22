@@ -1,0 +1,27 @@
+.interests{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    h2{
+        font-size: 25px;
+    }
+    p{
+        font-size: 17px;
+        width: 730px;
+        color: rgba(89, 88, 141, 1);
+        text-align: center;
+    }
+    .info{
+        display: flex;
+        align-items: center;
+        .box{
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+        }
+
+    }
+}
+

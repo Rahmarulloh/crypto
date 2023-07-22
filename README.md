@@ -5,6 +5,7 @@
 👨‍💻 [Uzgur <i>(team leader)</i>](https://github.com/Rahmarulloh);<br>
 👨‍💻 [Jamshid](https://github.com/jamshid2787);<br>
 👨‍💻 [Komolxo'ja](https://github.com/komolxoja);<br>
+👨‍💻 [Azizbek](https://github.com/Azizbek7js);<br>
 
 # Links:
 

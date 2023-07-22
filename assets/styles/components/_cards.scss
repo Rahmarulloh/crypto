@@ -2,6 +2,7 @@
   width: 320px;
   height: 334px;
   border: 1px solid;
+  font-style: normal;
   color: var(--white);
   @include d-flex($fd: column, $jc: space-evenly, $ai: center, $gp: 20px);
   border-image-source: linear-gradient(
@@ -18,4 +19,12 @@
     rgba(41, 39, 84, 0.78) 61.77%,
     rgba(27, 24, 66, 0.35) 119.94%
   );
+}
+
+.banner-title {
+  color: #fafafa;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  font-style: normal;
 }

@@ -2,8 +2,7 @@
 
 ## Team members:
 
-    👨‍💻 [Uzgur(team leader)](https://github.com/Rahmarulloh);
-
+👨‍💻 [Uzgur <i>team leader</i>](https://github.com/Rahmarulloh);
 👨‍💻 [Jamshid](https://github.com/jamshid2787);
 👨‍💻 [Komolxo'ja](https://github.com/komolxoja);
 

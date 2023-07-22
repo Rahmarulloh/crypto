@@ -1,6 +1,7 @@
 # crypto
 
-## Team members
+## Team members:
+  
 
 # Links:
 

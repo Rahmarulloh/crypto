@@ -1,0 +1,11 @@
+.btn-login {
+    border: none;
+    color: var(--white);
+    background: transparent;
+    @include d-flex($gp: 10px);
+}
+
+.btn-login:hover {
+    color: #40ddff;
+    cursor: pointer;
+}

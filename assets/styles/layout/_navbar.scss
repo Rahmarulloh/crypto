@@ -1,0 +1,11 @@
+.container_nav ul {
+  @include d-flex($fd: row, $jc: space-evenly, $ai: center, $gp: 30px);
+}
+
+ul > li:hover {
+  cursor: pointer;
+  color: #40ddff;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+}

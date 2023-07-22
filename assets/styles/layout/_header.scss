@@ -1,0 +1,23 @@
+.container_header {
+  width: 100%;
+  height: 70px;
+  @include d-flex($fd: row, $jc: space-evenly, $ai: center);
+  border: 1px solid #312f62;
+}
+
+.container_wrapper {
+  @include d-flex($fd: row, $jc: space-evenly, $ai: center, $gp: 50px);
+}
+
+.container_logo img {
+  cursor: pointer;
+}
+
+.container_language {
+  cursor: pointer;
+  @include d-flex($fd: row, $jc: space-evenly, $ai: center, $gp: 10px);
+}
+
+.container_register {
+  @include d-flex($fd: row, $jc: space-evenly, $ai: center, $gp: 10px);
+}

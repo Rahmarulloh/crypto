@@ -1,0 +1,29 @@
+.container_footer {
+  width: 100%;
+  height: 143px;
+  color: #59588d;
+  border-top: 1px solid #312f62;
+  @include d-flex($fd: row, $jc: space-evenly, $ai: center);
+}
+
+.footer_left {
+  & > .footer_text {
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+  }
+}
+
+.footer_nav ul {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  @include d-flex($fd: row, $jc: space-evenly, $ai: center, $gp: 30px);
+}
+
+.footer_rights ul {
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  @include d-flex($fd: column, $jc: space-evenly, $ai: start, $gp: 10px);
+}

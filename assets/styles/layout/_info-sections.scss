@@ -1,0 +1,44 @@
+.info-sections{
+    background-image:url(/images/endless-constellation\ 1.png) ;
+    background-size:100% ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+
+
+}
+
+.info1{
+    
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    h2{
+        font-size: 25px;
+    }
+    
+    p{
+        font-size: 12px;
+        width: 330px;
+        color: rgba(89, 88, 141, 1);
+    }
+}
+.info2{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    h2{
+        font-size: 25px;
+    }
+    p{
+        font-size: 12px;
+        width: 330px;
+        color: rgba(89, 88, 141, 1);
+    }
+}
+
+.img{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}

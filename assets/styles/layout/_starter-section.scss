@@ -1,0 +1,36 @@
+.starter-section {
+  width: 100%;
+  text-align: center;
+
+  &_title {
+    width: 764px;
+    height: 84px;
+    font-size: 32px;
+    font-weight: 600;
+    margin: 0 0 30px;
+    font-style: normal;
+  }
+
+  &_desc {
+    width: 744px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #59588d;
+    margin: 0 0 15px;
+    font-style: normal;
+  }
+
+  &_sub-desc {
+    width: 566px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #59588d;
+    margin: 0 0 15px;
+    font-style: normal;
+  }
+}
+
+.starter-section_context {
+  margin: 50px 0;
+  @include d-grid($pi: center);
+}

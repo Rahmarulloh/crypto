@@ -2,9 +2,9 @@
 
 ## Team members:
 
-👨‍💻 [Uzgur <i>team leader</i>](https://github.com/Rahmarulloh);
-👨‍💻 [Jamshid](https://github.com/jamshid2787);
-👨‍💻 [Komolxo'ja](https://github.com/komolxoja);
+👨‍💻 [Uzgur <i>(team leader)</i>](https://github.com/Rahmarulloh);/n
+👨‍💻 [Jamshid](https://github.com/jamshid2787);/n
+👨‍💻 [Komolxo'ja](https://github.com/komolxoja);/n
 
 # Links:
 

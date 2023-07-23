@@ -7,19 +7,28 @@
     h2{
         font-size: 25px;
     }
-    p{
+    .text{
         font-size: 17px;
         width: 730px;
         color: rgba(89, 88, 141, 1);
         text-align: center;
     }
     .info{
+        padding-top: 40px;
         display: flex;
         align-items: center;
         .box{
             display: flex;
             flex-direction: column;
             align-items: start;
+            gap: 20px;
+            p{
+                display: flex;
+                align-items: center;
+                gap: 20px;
+                width: 600px;
+                padding-bottom: 10px;
+            }
         }
 
     }
